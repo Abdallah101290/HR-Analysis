@@ -8,17 +8,19 @@
 
 🔗 [GitHub Repository](https://github.com/Abdallah101290/HR-Analysis)
 
-## 🖼️ Cover / Screenshots
 
-Place the screenshots inside the `screenshots/` folder in the repository and update the paths below if needed:
+## 🖼️ Dashboard Preview
 
-```markdown
-![Cover 1](Screenshot 1.png)
-![Cover 2](Screenshot 2.png)
-![Model View](Screenshot 6.png)
+### 🔹 Overview Page  
+![Overview Page](Screenshot 1.png)
+![Cover4](Screenshot 5.png)
+### 🔹 Demogravics Page  
+![Demogravics Page](Screenshot 2.png)
 ![Cover 3](Screenshot 4.png)
-![Cover 4](Screenshot 5.png)
-```
+### 🔹 Modeling Page  
+![Model View](Screenshot 6.png)
+
+
 
 ---
 
