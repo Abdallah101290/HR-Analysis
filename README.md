@@ -105,25 +105,6 @@ in
   CleanStatus
 ```
 
-### 🧱 SQL (ETL)
-
-```sql
-INSERT INTO dim_employee (EmployeeID, FullName, HireDate, TerminationDate, DepartmentID, JobTitle, Gender, Salary)
-SELECT
-  TRY_CAST(EmployeeID AS INT),
-  RTRIM(LTRIM(FirstName + ' ' + LastName)),
-  TRY_CAST(HireDate AS DATE),
-  TRY_CAST(TerminationDate AS DATE),
-  DepartmentID,
-  NULLIF(RTRIM(LTRIM(JobTitle)), ''),
-  Gender,
-  TRY_CAST(Salary AS DECIMAL(18,2))
-FROM staging_employees
-WHERE EmployeeID IS NOT NULL;
-```
-
----
-
 ## 🧩 5. Data Modeling — Recommended: Star Schema
 
 **Structure**
