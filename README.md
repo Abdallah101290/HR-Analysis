@@ -12,15 +12,15 @@
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Overview Page  
-([Screenshot 1.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%201.png))
+![Screenshot 1.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%201.png) | ![Screenshot 5.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%205.png)
 
-([Screenshot 5.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%205.png))
+
 ### 🔹 Demogravics Page  
-([Screenshot 2.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%202.png))
+![Screenshot 2.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%202.png) | ![Screenshot 4.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%204.png)
 
-([Screenshot 4.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%204.png))
+
 ### 🔹 Modeling Page  
-([Screenshot 6.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%206.png))
+![Screenshot 6.png](https://github.com/Abdallah101290/HR-Analysis/blob/main/Screenshot%206.png)
 
 
 
