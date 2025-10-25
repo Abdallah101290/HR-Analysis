@@ -13,9 +13,11 @@
 Place the screenshots inside the `screenshots/` folder in the repository and update the paths below if needed:
 
 ```markdown
-![Cover 1](screenshots/cover1.png)
-![Cover 2](screenshots/cover2.png)
-![Model View](screenshots/model_view.png)
+![Cover 1](Screenshot 1.png)
+![Cover 2](Screenshot 2.png)
+![Model View](Screenshot 6.png)
+![Cover 3](Screenshot 4.png)
+![Cover 4](Screenshot 5.png)
 ```
 
 ---
